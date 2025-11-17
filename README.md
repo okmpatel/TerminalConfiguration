@@ -1,0 +1,1 @@
+# Terminal Configuration using Starship
